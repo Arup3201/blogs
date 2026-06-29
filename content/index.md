@@ -2,6 +2,10 @@
 title: Home
 ---
 
+I am learning to add observability to the [tasks API](https://github.com/Arup3201/tasks-api) with Prometheus.
+
+- [Prometheus Architecture Overview](./29-06-2024.md)
+
 I am learning MongoDB from https://learn.mongodb.com. Following are the notes of the same.
 
 - [Foundations of MongoDB](./23-06-2026.md)
