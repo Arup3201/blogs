@@ -4,7 +4,8 @@ title: Home
 
 I am learning to add observability to the [tasks API](https://github.com/Arup3201/tasks-api) with Prometheus.
 
-- [Prometheus Architecture Overview](./29-06-2024.md)
+- [Prometheus Architecture Overview](./prometheus/29-06-2024.md)
+- [Instrumenting Go API](./prometheus/30-06-2026.md)
 
 I am learning MongoDB from https://learn.mongodb.com. Following are the notes of the same.
 
